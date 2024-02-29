@@ -1,0 +1,59 @@
+#image{
+    height: 500px;
+    border-radius: 100%;
+    border: 5px;
+    
+    width: 20%;
+    align-items: left;
+    justify-content: right;
+    margin: right;
+    display flex: left: ;
+}
+#form{
+    background-color:pink;
+    border-radius: 30px;
+    padding: 10px 15px;
+    margin: 20px;
+}
+#body{
+    background-color:rgb(195, 192, 255);
+}
+#button{
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+
+}
+#icons{
+       border-radius: 30px;
+       padding: 10px 20px;
+       margin: 100px;
+}
+#products{
+    border-radius: 30%;
+
+    padding: 10px 20px;
+    margin: 0px;
+    display: flex;
+
+}
+#Discounts{
+    border-radius: 30px;
+    padding: 10px 15px;
+    margin: 100px;
+
+}
+#arrivals{
+    border-radius: 20px;
+    padding: 10px 15px;
+    margin: 100px;
+}
+#updates{
+    border-radius: 40px;
+    padding: 13px 5px;
+    margin: 100px;
+}
+#privacy{
+    justify-content: left;
+    
+}
